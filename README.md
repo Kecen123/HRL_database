@@ -9,7 +9,7 @@ For string values, we used the cluster cleaning functions in Open Refine (key co
 
 For street addresses, we used the cluster cleaning functions in Open Refine (key collision & nearest neighbor) to standardize differences in spelling street names. In cases where the house number is a range, we selected the smaller number. 
 
-Detailed steps can be find [here](!https://docs.google.com/document/d/1PBgD0DWsrzOnmubfnC92FbGEmAuqilxUOiA4A8xzoag/edit#heading=h.mz4nrr7tzxjw]).
+Detailed steps can be find [here](https://docs.google.com/document/d/1PBgD0DWsrzOnmubfnC92FbGEmAuqilxUOiA4A8xzoag/edit#heading=h.mz4nrr7tzxjw]).
 ## Data visualization
 Code can be find [here](data_visual.ipynb). In the document, we did basic analysis to the dataset.
 ## Data Prediction
